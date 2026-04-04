@@ -1,2 +1,2 @@
-# advanced-resonance-cllc
-Analysis and implementation of a CLLC converter. Investigation on different modulation and control strategies. 
+# Advanced-DCDC-Converters
+In this repo we explore and analysis different DCDC configuration like CLLC, Single-Phase-DAB, Three-Phase-DAB.
